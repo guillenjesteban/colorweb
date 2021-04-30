@@ -2,10 +2,10 @@
 
 ## [Live Demo](https://hexcolorweb.netlify.app/) ##
 
-__Challenge: __
+_Challenge:_
 The goal was to create a function where I could get a random HEX number color everytime I click a button.
 
-__Languages: __
+_Languages:_
 - HTML
 - CSS
 - Javascript
